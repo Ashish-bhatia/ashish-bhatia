@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A Cloud/DevOps Engineer,</h3>
+<h1 align="center">Hi, I'm Ashish</h1>
+<h2 align="center">A Cloud/DevOps Engineer,</h2>
 
 - 📫 How to reach me **inspiremeashish@gmail.com**
 
